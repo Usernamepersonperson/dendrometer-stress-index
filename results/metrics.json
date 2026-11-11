@@ -1,0 +1,350 @@
+{
+  "labels": {
+    "simulated": "seeded simulator driven by real MeteoSwiss Visp weather, Apr 15-Sep 30",
+    "real": "open data: Pfynwald (Valais) Scots pines, EnviDat CC BY 4.0, Apr-Oct 2024 and 2025; weather MeteoSwiss Visp"
+  },
+  "simulated": {
+    "seasons": 20,
+    "weather_years": [
+      2024,
+      2025
+    ],
+    "seeds_per_year": 10,
+    "ref": {
+      "droughts": 40,
+      "reached_stress": 38,
+      "detected": 38,
+      "detection_rate": 1.0,
+      "delay_median_days": -0.5,
+      "delay_p25_days": -2.0,
+      "delay_p75_days": 1.0,
+      "delay_max_days": 2,
+      "detected_within_3d": 1.0,
+      "wet_days": 2340,
+      "false_stress_days": 201,
+      "false_stress_rate": 0.0858974358974359,
+      "recovery_median_days": 1.0
+    },
+    "vpd": {
+      "droughts": 40,
+      "reached_stress": 38,
+      "detected": 36,
+      "detection_rate": 0.9473684210526315,
+      "delay_median_days": 1.0,
+      "delay_p25_days": 0.0,
+      "delay_p75_days": 2.25,
+      "delay_max_days": 5,
+      "detected_within_3d": 0.8611111111111112,
+      "wet_days": 2340,
+      "false_stress_days": 88,
+      "false_stress_rate": 0.037606837606837605,
+      "recovery_median_days": 1.0
+    }
+  },
+  "simulated_glitches": {
+    "jump_recall": 1.0,
+    "reset_recall": 1.0,
+    "spike_recall": 1.0,
+    "jump_injected": 30,
+    "reset_injected": 10,
+    "spike_injected": 100,
+    "series": 10,
+    "series_days": 1690,
+    "false_detections": 11,
+    "false_detections_per_100_days": 0.650887573964497,
+    "mds_mae_raw_um": 11.533644069769325,
+    "mds_mae_cleaned_um": 0.029381531513873575,
+    "twd_predawn_mae_raw_um": 204.01208141134006,
+    "twd_predawn_mae_cleaned_um": 0.0404807721815574
+  },
+  "real": {
+    "2024": {
+      "trees": {
+        "control": 18,
+        "irrigation_stop": 8,
+        "irrigation": 18,
+        "irrigation_vpd": 9,
+        "roof": 11,
+        "roof_vpd": 9
+      },
+      "twd_vs_published": {
+        "trees": 72,
+        "r_median": 0.9731589998309935,
+        "r_min": 0.5042132407004437,
+        "mae_median_um": 4.104715965112602
+      },
+      "summer_window": [
+        "2024-06-01",
+        "2024-09-15"
+      ],
+      "light_share": {
+        "ref": {
+          "control": {
+            "tree_days": 1563,
+            "non_green": 0.6615483045425464,
+            "red": 0.3582853486884197,
+            "trees": 15
+          },
+          "irrigation_stop": {
+            "tree_days": 707,
+            "non_green": 0.6393210749646393,
+            "red": 0.3012729844413013,
+            "trees": 7
+          },
+          "irrigation": {
+            "tree_days": 1670,
+            "non_green": 0.26646706586826346,
+            "red": 0.11736526946107785,
+            "trees": 16
+          },
+          "irrigation_vpd": {
+            "tree_days": 963,
+            "non_green": 0.09241952232606439,
+            "red": 0.012461059190031152,
+            "trees": 9
+          },
+          "roof": {
+            "tree_days": 856,
+            "non_green": 0.47546728971962615,
+            "red": 0.2207943925233645,
+            "trees": 8
+          },
+          "roof_vpd": {
+            "tree_days": 963,
+            "non_green": 0.6915887850467289,
+            "red": 0.2616822429906542,
+            "trees": 9
+          }
+        },
+        "vpd": {
+          "control": {
+            "tree_days": 1563,
+            "non_green": 0.5303902751119641,
+            "red": 0.2885476647472809,
+            "trees": 15
+          },
+          "irrigation_stop": {
+            "tree_days": 707,
+            "non_green": 0.4752475247524752,
+            "red": 0.1669024045261669,
+            "trees": 7
+          },
+          "irrigation": {
+            "tree_days": 1670,
+            "non_green": 0.18502994011976048,
+            "red": 0.07724550898203593,
+            "trees": 16
+          },
+          "irrigation_vpd": {
+            "tree_days": 963,
+            "non_green": 0.1142263759086189,
+            "red": 0.01557632398753894,
+            "trees": 9
+          },
+          "roof": {
+            "tree_days": 856,
+            "non_green": 0.35046728971962615,
+            "red": 0.1658878504672897,
+            "trees": 8
+          },
+          "roof_vpd": {
+            "tree_days": 963,
+            "non_green": 0.5295950155763239,
+            "red": 0.16199376947040497,
+            "trees": 9
+          }
+        }
+      },
+      "weather_relation": {
+        "irrigation": {
+          "mds_vs_vpdmax_r": 0.6307258128640614,
+          "mds_days": 123,
+          "twd_predawn_vs_days_since_rain_rho": 0.2899990084795425,
+          "twd_days": 122,
+          "twd_predawn_summer_median_um": 67.84491729736328
+        },
+        "control": {
+          "mds_vs_vpdmax_r": 0.7356570651147029,
+          "mds_days": 123,
+          "twd_predawn_vs_days_since_rain_rho": 0.5537673771566285,
+          "twd_days": 122,
+          "twd_predawn_summer_median_um": 172.77558263142905
+        },
+        "roof": {
+          "mds_vs_vpdmax_r": 0.4428316566447121,
+          "mds_days": 123,
+          "twd_predawn_vs_days_since_rain_rho": 0.5708879509044434,
+          "twd_days": 122,
+          "twd_predawn_summer_median_um": 79.90383021036783
+        }
+      },
+      "longest_dry_spell": {
+        "start": "2024-07-22",
+        "end": "2024-08-11",
+        "days": 21,
+        "irrigation_twd_change_um": -84.5567292616599,
+        "irrigation_non_green_share": 0.3005952380952381,
+        "control_twd_change_um": 217.36706802580088,
+        "control_non_green_share": 0.7968253968253969,
+        "roof_twd_change_um": 128.03866598341202,
+        "roof_non_green_share": 0.44047619047619047
+      }
+    },
+    "2025": {
+      "trees": {
+        "control": 18,
+        "irrigation_stop": 8,
+        "irrigation": 18,
+        "irrigation_vpd": 9,
+        "roof": 9,
+        "roof_vpd": 10
+      },
+      "twd_vs_published": {
+        "trees": 72,
+        "r_median": 0.9997605200555117,
+        "r_min": 0.9475353502037851,
+        "mae_median_um": 0.273923449669479
+      },
+      "summer_window": [
+        "2025-06-01",
+        "2025-09-15"
+      ],
+      "light_share": {
+        "ref": {
+          "control": {
+            "tree_days": 1804,
+            "non_green": 0.7716186252771619,
+            "red": 0.5188470066518847,
+            "trees": 17
+          },
+          "irrigation_stop": {
+            "tree_days": 841,
+            "non_green": 0.7395957193816884,
+            "red": 0.5469678953626635,
+            "trees": 8
+          },
+          "irrigation": {
+            "tree_days": 1697,
+            "non_green": 0.41720683559222155,
+            "red": 0.24219210371243372,
+            "trees": 16
+          },
+          "irrigation_vpd": {
+            "tree_days": 963,
+            "non_green": 0.6479750778816199,
+            "red": 0.48078920041536866,
+            "trees": 9
+          },
+          "roof": {
+            "tree_days": 963,
+            "non_green": 0.6936656282450675,
+            "red": 0.48909657320872274,
+            "trees": 9
+          },
+          "roof_vpd": {
+            "tree_days": 963,
+            "non_green": 0.6593977154724818,
+            "red": 0.5275181723779855,
+            "trees": 10
+          }
+        },
+        "vpd": {
+          "control": {
+            "tree_days": 1804,
+            "non_green": 0.8841463414634146,
+            "red": 0.6202882483370288,
+            "trees": 17
+          },
+          "irrigation_stop": {
+            "tree_days": 841,
+            "non_green": 0.8787158145065398,
+            "red": 0.6575505350772889,
+            "trees": 8
+          },
+          "irrigation": {
+            "tree_days": 1697,
+            "non_green": 0.4702416028285209,
+            "red": 0.2545668827342369,
+            "trees": 16
+          },
+          "irrigation_vpd": {
+            "tree_days": 963,
+            "non_green": 0.7580477673935618,
+            "red": 0.5451713395638629,
+            "trees": 9
+          },
+          "roof": {
+            "tree_days": 963,
+            "non_green": 0.8400830737279336,
+            "red": 0.6074766355140186,
+            "trees": 9
+          },
+          "roof_vpd": {
+            "tree_days": 963,
+            "non_green": 0.7684319833852544,
+            "red": 0.5669781931464174,
+            "trees": 10
+          }
+        }
+      },
+      "weather_relation": {
+        "irrigation": {
+          "mds_vs_vpdmax_r": 0.4589183338933021,
+          "mds_days": 127,
+          "twd_predawn_vs_days_since_rain_rho": 0.38196455681945,
+          "twd_days": 122,
+          "twd_predawn_summer_median_um": 67.79813130696614
+        },
+        "control": {
+          "mds_vs_vpdmax_r": 0.48672945901007364,
+          "mds_days": 127,
+          "twd_predawn_vs_days_since_rain_rho": 0.14450506214751394,
+          "twd_days": 122,
+          "twd_predawn_summer_median_um": 210.04364649454752
+        },
+        "roof": {
+          "mds_vs_vpdmax_r": 0.191293067032959,
+          "mds_days": 127,
+          "twd_predawn_vs_days_since_rain_rho": 0.23563500685117902,
+          "twd_days": 122,
+          "twd_predawn_summer_median_um": 143.52999877929688
+        }
+      },
+      "longest_dry_spell": {
+        "start": "2025-06-01",
+        "end": "2025-06-29",
+        "days": 29,
+        "irrigation_twd_change_um": 101.10618003209431,
+        "irrigation_non_green_share": 0.40086206896551724,
+        "control_twd_change_um": 225.15237981743283,
+        "control_non_green_share": 0.6328600405679513,
+        "roof_twd_change_um": 162.60741938940353,
+        "roof_non_green_share": 0.6091954022988505
+      }
+    }
+  },
+  "real_glitches": {
+    "unmodified": {
+      "clean_series": 113,
+      "series_days": 19097,
+      "jumps_flagged_per_100_days": 1.6128187673456564,
+      "spikes_flagged_per_100_days": 0.5026967586531916
+    },
+    "injected": {
+      "jump_recall": 1.0,
+      "reset_recall": 0.9666666666666667,
+      "spike_recall": 1.0,
+      "jump_injected": 90,
+      "reset_injected": 30,
+      "spike_injected": 300,
+      "series": 30,
+      "series_days": 5070,
+      "false_detections": 49,
+      "false_detections_per_100_days": 0.9664694280078896,
+      "mds_mae_raw_um": 8.74662512624811,
+      "mds_mae_cleaned_um": 0.02770336622833712,
+      "twd_predawn_mae_raw_um": 202.96108862014387,
+      "twd_predawn_mae_cleaned_um": 3.0485939851592145
+    }
+  }
+}

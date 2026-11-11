@@ -1,0 +1,74 @@
+[
+  {
+    "tree": "control_600",
+    "date": "2025-08-31",
+    "light": "amber",
+    "advice": "water deficit building: irrigate soon or raise the dose",
+    "mds_um": 87.3,
+    "si": 1.52,
+    "twd_predawn_um": 197.9,
+    "method": "vpd",
+    "jumps_fixed": 0,
+    "spikes_removed": 0
+  },
+  {
+    "tree": "control_601",
+    "date": "2025-08-31",
+    "light": "green",
+    "advice": "no extra irrigation needed",
+    "mds_um": 159.5,
+    "si": 1.11,
+    "twd_predawn_um": 294.5,
+    "method": "vpd",
+    "jumps_fixed": 1,
+    "spikes_removed": 0
+  },
+  {
+    "tree": "irrigation_392",
+    "date": "2025-08-31",
+    "light": "green",
+    "advice": "no extra irrigation needed",
+    "mds_um": 100.2,
+    "si": 0.96,
+    "twd_predawn_um": 67.5,
+    "method": "vpd",
+    "jumps_fixed": 1,
+    "spikes_removed": 0
+  },
+  {
+    "tree": "irrigation_757",
+    "date": "2025-08-31",
+    "light": "green",
+    "advice": "no extra irrigation needed",
+    "mds_um": 79.1,
+    "si": 1.09,
+    "twd_predawn_um": 21.1,
+    "method": "vpd",
+    "jumps_fixed": 1,
+    "spikes_removed": 0
+  },
+  {
+    "tree": "roof_522",
+    "date": "2025-08-31",
+    "light": "green",
+    "advice": "no extra irrigation needed",
+    "mds_um": 151.0,
+    "si": 1.21,
+    "twd_predawn_um": 169.6,
+    "method": "vpd",
+    "jumps_fixed": 2,
+    "spikes_removed": 2
+  },
+  {
+    "tree": "roof_572",
+    "date": "2025-08-31",
+    "light": "green",
+    "advice": "no extra irrigation needed",
+    "mds_um": 74.0,
+    "si": 0.91,
+    "twd_predawn_um": 173.1,
+    "method": "vpd",
+    "jumps_fixed": 0,
+    "spikes_removed": 0
+  }
+]

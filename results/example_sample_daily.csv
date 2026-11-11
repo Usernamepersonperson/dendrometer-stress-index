@@ -1,0 +1,553 @@
+date,tree,coverage,mds,growth,twd_predawn,mds_expected,si,twd_rel,light,advice
+2025-06-01,control_600,1.000,88.900,,0.000,99.562,0.893,-0.781,green,no extra irrigation needed
+2025-06-02,control_600,1.000,42.140,19.660,0.000,60.155,0.797,-0.781,green,no extra irrigation needed
+2025-06-03,control_600,1.000,65.880,22.000,0.000,73.991,0.890,-0.781,green,no extra irrigation needed
+2025-06-04,control_600,1.000,64.880,0.000,8.982,60.174,0.890,-0.682,green,no extra irrigation needed
+2025-06-05,control_600,1.000,60.100,0.000,5.562,63.379,0.948,-0.720,green,no extra irrigation needed
+2025-06-06,control_600,1.000,86.820,0.000,17.810,71.386,1.078,-0.585,green,no extra irrigation needed
+2025-06-07,control_600,1.000,1.370,37.000,0.000,42.926,0.948,-0.781,green,no extra irrigation needed
+2025-06-08,control_600,1.000,104.910,11.000,0.000,74.269,1.216,-0.781,green,no extra irrigation needed
+2025-06-09,control_600,1.000,74.570,0.000,54.138,72.399,1.030,-0.185,green,no extra irrigation needed
+2025-06-10,control_600,1.000,86.440,0.000,61.272,87.372,1.030,-0.106,green,no extra irrigation needed
+2025-06-11,control_600,1.000,90.760,0.000,70.910,90.990,0.997,0.000,green,no extra irrigation needed
+2025-06-12,control_600,1.000,93.170,0.000,78.372,114.363,0.989,0.082,green,no extra irrigation needed
+2025-06-13,control_600,1.000,96.690,0.000,91.523,119.168,0.815,0.227,green,no extra irrigation needed
+2025-06-14,control_600,1.000,102.080,0.000,88.498,110.309,0.815,0.194,green,no extra irrigation needed
+2025-06-15,control_600,1.000,90.750,0.000,105.467,88.161,0.925,0.381,green,no extra irrigation needed
+2025-06-16,control_600,1.000,108.990,0.000,95.633,81.130,1.029,0.272,green,no extra irrigation needed
+2025-06-17,control_600,1.000,99.260,0.000,116.188,86.694,1.145,0.499,green,no extra irrigation needed
+2025-06-18,control_600,1.000,100.880,0.000,119.930,88.423,1.145,0.540,green,no extra irrigation needed
+2025-06-19,control_600,1.000,99.350,0.000,127.087,93.545,1.141,0.619,green,no extra irrigation needed
+2025-06-20,control_600,1.000,102.050,0.000,128.238,94.958,1.075,0.632,green,no extra irrigation needed
+2025-06-21,control_600,1.000,98.350,0.000,136.855,84.987,1.075,0.727,green,no extra irrigation needed
+2025-06-22,control_600,1.000,92.700,0.000,131.954,107.780,1.075,0.673,green,no extra irrigation needed
+2025-06-23,control_600,1.000,86.180,0.000,149.839,76.977,1.120,0.870,green,no extra irrigation needed
+2025-06-24,control_600,1.000,109.760,0.000,144.129,99.947,1.098,0.807,green,no extra irrigation needed
+2025-06-25,control_600,1.000,94.640,0.000,164.148,116.016,1.098,1.027,green,no extra irrigation needed
+2025-06-26,control_600,1.000,84.070,0.000,165.969,59.825,1.098,1.047,green,no extra irrigation needed
+2025-06-27,control_600,1.000,122.130,0.000,158.163,87.977,1.388,0.961,amber,water deficit building: irrigate soon or raise the dose
+2025-06-28,control_600,1.000,98.680,0.000,184.570,96.317,1.388,1.252,amber,water deficit building: irrigate soon or raise the dose
+2025-06-29,control_600,1.000,100.690,0.000,194.192,103.245,1.025,1.358,green,no extra irrigation needed
+2025-06-30,control_600,1.000,102.580,0.000,189.050,74.131,1.025,1.302,green,no extra irrigation needed
+2025-07-01,control_600,1.000,111.780,0.000,183.779,95.076,1.176,1.244,green,no extra irrigation needed
+2025-07-02,control_600,1.000,106.810,0.000,186.178,85.789,1.245,1.270,green,no extra irrigation needed
+2025-07-03,control_600,1.000,104.720,0.000,193.210,81.166,1.245,1.348,green,no extra irrigation needed
+2025-07-04,control_600,1.000,135.280,0.000,168.178,90.967,1.290,1.072,green,no extra irrigation needed
+2025-07-05,control_600,1.000,128.600,0.000,206.393,94.222,1.365,1.493,amber,water deficit building: irrigate soon or raise the dose
+2025-07-06,control_600,1.000,103.860,0.000,234.714,73.222,1.418,1.805,amber,water deficit building: irrigate soon or raise the dose
+2025-07-07,control_600,1.000,142.700,0.000,211.888,75.672,1.418,1.553,amber,water deficit building: irrigate soon or raise the dose
+2025-07-08,control_600,1.000,91.700,0.000,208.597,58.744,1.561,1.517,amber,water deficit building: irrigate soon or raise the dose
+2025-07-09,control_600,1.000,119.860,0.000,220.203,77.476,1.561,1.645,amber,water deficit building: irrigate soon or raise the dose
+2025-07-10,control_600,1.000,104.020,0.000,254.811,87.321,1.547,2.026,amber,water deficit building: irrigate soon or raise the dose
+2025-07-11,control_600,1.000,93.060,0.000,271.643,88.981,1.191,2.212,amber,water deficit building: irrigate soon or raise the dose
+2025-07-12,control_600,1.000,84.400,0.000,281.131,93.414,1.046,2.316,amber,water deficit building: irrigate soon or raise the dose
+2025-07-13,control_600,1.000,86.230,0.000,288.682,72.805,1.046,2.399,amber,water deficit building: irrigate soon or raise the dose
+2025-07-14,control_600,1.000,95.000,0.000,241.868,78.496,1.184,1.884,amber,water deficit building: irrigate soon or raise the dose
+2025-07-15,control_600,1.000,93.680,0.000,224.584,63.038,1.210,1.693,amber,water deficit building: irrigate soon or raise the dose
+2025-07-16,control_600,1.000,116.600,0.000,236.751,74.970,1.486,1.827,amber,water deficit building: irrigate soon or raise the dose
+2025-07-17,control_600,1.000,126.740,0.000,229.970,90.111,1.486,1.753,amber,water deficit building: irrigate soon or raise the dose
+2025-07-18,control_600,1.000,80.360,0.000,276.024,101.104,1.406,2.260,amber,water deficit building: irrigate soon or raise the dose
+2025-07-19,control_600,1.000,68.430,0.000,285.985,74.653,0.917,2.370,amber,water deficit building: irrigate soon or raise the dose
+2025-07-20,control_600,1.000,95.720,0.000,255.348,75.427,0.917,2.032,amber,water deficit building: irrigate soon or raise the dose
+2025-07-21,control_600,1.000,108.180,0.000,202.932,75.703,1.269,1.455,green,no extra irrigation needed
+2025-07-22,control_600,1.000,107.420,0.000,203.491,75.044,1.429,1.461,amber,water deficit building: irrigate soon or raise the dose
+2025-07-23,control_600,1.000,103.770,0.000,220.721,72.767,1.429,1.651,amber,water deficit building: irrigate soon or raise the dose
+2025-07-24,control_600,1.000,88.530,0.000,215.533,58.823,1.431,1.593,amber,water deficit building: irrigate soon or raise the dose
+2025-07-25,control_600,1.000,118.800,0.000,199.488,57.648,1.505,1.417,amber,water deficit building: irrigate soon or raise the dose
+2025-07-26,control_600,1.000,41.990,0.000,164.258,46.324,1.505,1.029,amber,water deficit building: irrigate soon or raise the dose
+2025-07-27,control_600,1.000,108.720,0.000,133.213,62.147,1.749,0.686,red,strong water stress: irrigate now
+2025-07-28,control_600,1.000,78.630,0.000,116.621,49.567,1.586,0.504,amber,water deficit building: irrigate soon or raise the dose
+2025-07-29,control_600,1.000,101.740,0.000,138.806,69.219,1.586,0.748,amber,water deficit building: irrigate soon or raise the dose
+2025-07-30,control_600,1.000,82.020,0.000,164.271,68.006,1.470,1.029,amber,water deficit building: irrigate soon or raise the dose
+2025-07-31,control_600,1.000,107.460,0.000,170.141,79.092,1.359,1.093,amber,water deficit building: irrigate soon or raise the dose
+2025-08-01,control_600,1.000,113.680,0.000,185.893,81.176,1.359,1.267,amber,water deficit building: irrigate soon or raise the dose
+2025-08-02,control_600,1.000,80.760,0.000,166.547,56.334,1.400,1.054,amber,water deficit building: irrigate soon or raise the dose
+2025-08-03,control_600,1.000,117.750,0.000,170.109,67.268,1.434,1.093,amber,water deficit building: irrigate soon or raise the dose
+2025-08-04,control_600,1.000,121.120,0.000,186.962,75.171,1.611,1.279,red,strong water stress: irrigate now
+2025-08-05,control_600,1.000,106.720,0.000,205.583,90.931,1.611,1.484,red,strong water stress: irrigate now
+2025-08-06,control_600,1.000,121.910,0.000,211.143,71.729,1.611,1.545,red,strong water stress: irrigate now
+2025-08-07,control_600,1.000,113.830,0.000,223.482,98.751,1.174,1.681,amber,water deficit building: irrigate soon or raise the dose
+2025-08-08,control_600,1.000,80.320,0.000,260.973,110.732,1.153,2.094,amber,water deficit building: irrigate soon or raise the dose
+2025-08-09,control_600,1.000,74.370,0.000,278.220,124.999,0.725,2.284,amber,water deficit building: irrigate soon or raise the dose
+2025-08-10,control_600,1.000,63.320,0.000,296.938,106.467,0.595,2.490,amber,water deficit building: irrigate soon or raise the dose
+2025-08-11,control_600,1.000,65.810,0.000,303.887,99.456,0.595,2.567,amber,water deficit building: irrigate soon or raise the dose
+2025-08-12,control_600,1.000,62.990,0.000,308.128,113.688,0.595,2.614,amber,water deficit building: irrigate soon or raise the dose
+2025-08-13,control_600,1.000,44.700,0.000,334.036,121.728,0.554,2.899,amber,water deficit building: irrigate soon or raise the dose
+2025-08-14,control_600,1.000,48.290,0.000,344.182,92.113,0.524,3.011,red,strong water stress: irrigate now
+2025-08-15,control_600,1.000,46.430,0.000,341.857,101.296,0.458,2.985,amber,water deficit building: irrigate soon or raise the dose
+2025-08-16,control_600,1.000,51.190,0.000,350.693,95.990,0.524,3.083,red,strong water stress: irrigate now
+2025-08-17,control_600,1.000,60.480,0.000,341.844,85.949,0.533,2.985,amber,water deficit building: irrigate soon or raise the dose
+2025-08-18,control_600,1.000,60.190,0.000,361.427,88.572,0.680,3.201,red,strong water stress: irrigate now
+2025-08-19,control_600,1.000,65.070,0.000,373.936,79.851,0.704,3.339,red,strong water stress: irrigate now
+2025-08-20,control_600,1.000,12.310,0.000,322.982,45.041,0.680,2.777,amber,water deficit building: irrigate soon or raise the dose
+2025-08-21,control_600,1.000,36.320,0.000,214.428,50.233,0.723,1.581,amber,water deficit building: irrigate soon or raise the dose
+2025-08-22,control_600,1.000,104.340,0.000,191.757,69.849,0.723,1.331,green,no extra irrigation needed
+2025-08-23,control_600,1.000,98.770,0.000,214.463,71.250,1.386,1.582,amber,water deficit building: irrigate soon or raise the dose
+2025-08-24,control_600,1.000,93.040,0.000,231.685,67.876,1.386,1.771,amber,water deficit building: irrigate soon or raise the dose
+2025-08-25,control_600,1.000,97.300,0.000,245.939,85.928,1.371,1.928,amber,water deficit building: irrigate soon or raise the dose
+2025-08-26,control_600,1.000,92.610,0.000,265.590,92.036,1.132,2.145,amber,water deficit building: irrigate soon or raise the dose
+2025-08-27,control_600,1.000,75.750,0.000,255.674,60.155,1.132,2.036,amber,water deficit building: irrigate soon or raise the dose
+2025-08-28,control_600,1.000,2.140,0.000,218.973,45.412,1.006,1.631,amber,water deficit building: irrigate soon or raise the dose
+2025-08-29,control_600,1.000,95.390,0.000,163.336,54.880,1.259,1.018,green,no extra irrigation needed
+2025-08-30,control_600,1.000,90.880,0.000,185.173,59.766,1.521,1.259,amber,water deficit building: irrigate soon or raise the dose
+2025-08-31,control_600,1.000,87.280,0.000,197.907,74.205,1.521,1.399,amber,water deficit building: irrigate soon or raise the dose
+2025-06-01,control_601,1.000,176.890,,1.897,150.466,1.176,-0.792,green,no extra irrigation needed
+2025-06-02,control_601,1.000,111.400,51.380,0.000,140.953,0.983,-0.805,green,no extra irrigation needed
+2025-06-03,control_601,1.000,154.980,31.000,0.000,144.293,1.074,-0.805,green,no extra irrigation needed
+2025-06-04,control_601,1.000,152.390,4.000,2.652,140.958,1.074,-0.786,green,no extra irrigation needed
+2025-06-05,control_601,1.000,140.430,2.000,0.264,141.731,1.074,-0.803,green,no extra irrigation needed
+2025-06-06,control_601,1.000,147.490,0.000,37.135,143.664,1.027,-0.541,green,no extra irrigation needed
+2025-06-07,control_601,1.000,0.000,91.000,0.000,136.793,0.991,-0.805,green,no extra irrigation needed
+2025-06-08,control_601,1.000,189.670,16.000,7.233,144.360,1.027,-0.754,green,no extra irrigation needed
+2025-06-09,control_601,1.000,130.150,0.000,75.447,143.909,0.904,-0.268,green,no extra irrigation needed
+2025-06-10,control_601,1.000,138.850,0.000,91.363,147.524,0.941,-0.155,green,no extra irrigation needed
+2025-06-11,control_601,1.000,153.280,0.000,113.068,148.397,0.941,0.000,green,no extra irrigation needed
+2025-06-12,control_601,1.000,152.250,0.000,142.091,154.040,0.988,0.207,green,no extra irrigation needed
+2025-06-13,control_601,1.000,146.380,0.000,188.696,155.200,0.988,0.539,green,no extra irrigation needed
+2025-06-14,control_601,1.000,175.110,0.000,197.938,153.061,0.988,0.604,green,no extra irrigation needed
+2025-06-15,control_601,1.000,130.740,0.000,250.816,147.714,0.943,0.981,green,no extra irrigation needed
+2025-06-16,control_601,1.000,174.770,0.000,238.382,146.017,1.144,0.892,green,no extra irrigation needed
+2025-06-17,control_601,1.000,140.160,0.000,278.505,147.360,0.951,1.178,green,no extra irrigation needed
+2025-06-18,control_601,1.000,134.780,0.000,287.193,147.777,0.951,1.240,green,no extra irrigation needed
+2025-06-19,control_601,1.000,122.640,0.000,296.953,149.014,0.912,1.309,green,no extra irrigation needed
+2025-06-20,control_601,1.000,134.620,0.000,291.302,149.355,0.901,1.269,green,no extra irrigation needed
+2025-06-21,control_601,1.000,135.760,0.000,319.582,146.948,0.901,1.471,green,no extra irrigation needed
+2025-06-22,control_601,1.000,142.590,0.000,305.976,152.450,0.924,1.374,green,no extra irrigation needed
+2025-06-23,control_601,1.000,121.320,0.000,338.317,145.014,0.924,1.604,amber,water deficit building: irrigate soon or raise the dose
+2025-06-24,control_601,1.000,156.060,0.000,322.405,150.559,0.935,1.491,green,no extra irrigation needed
+2025-06-25,control_601,1.000,127.810,0.000,351.862,154.439,0.837,1.700,amber,water deficit building: irrigate soon or raise the dose
+2025-06-26,control_601,1.000,89.040,0.000,343.450,140.873,0.828,1.641,amber,water deficit building: irrigate soon or raise the dose
+2025-06-27,control_601,1.000,168.740,0.000,303.086,147.670,0.828,1.353,green,no extra irrigation needed
+2025-06-28,control_601,1.000,130.070,0.000,349.571,149.683,0.869,1.684,amber,water deficit building: irrigate soon or raise the dose
+2025-06-29,control_601,1.000,137.890,0.000,364.738,151.356,0.911,1.792,amber,water deficit building: irrigate soon or raise the dose
+2025-06-30,control_601,1.000,124.930,0.000,346.244,144.327,0.869,1.660,amber,water deficit building: irrigate soon or raise the dose
+2025-07-01,control_601,1.000,160.380,0.000,322.153,149.383,0.911,1.489,green,no extra irrigation needed
+2025-07-02,control_601,1.000,154.230,0.000,328.469,147.141,1.048,1.534,amber,water deficit building: irrigate soon or raise the dose
+2025-07-03,control_601,1.000,156.160,0.000,340.656,146.025,1.069,1.621,amber,water deficit building: irrigate soon or raise the dose
+2025-07-04,control_601,1.000,196.880,0.000,307.146,148.392,1.069,1.382,green,no extra irrigation needed
+2025-07-05,control_601,1.000,183.920,0.000,352.720,149.177,1.233,1.707,amber,water deficit building: irrigate soon or raise the dose
+2025-07-06,control_601,1.000,132.790,0.000,385.840,144.108,1.233,1.942,amber,water deficit building: irrigate soon or raise the dose
+2025-07-07,control_601,1.000,190.060,0.000,348.396,144.699,1.233,1.676,amber,water deficit building: irrigate soon or raise the dose
+2025-07-08,control_601,1.000,122.230,0.000,317.217,140.612,0.921,1.454,green,no extra irrigation needed
+2025-07-09,control_601,1.000,185.420,0.000,347.284,145.134,1.278,1.668,amber,water deficit building: irrigate soon or raise the dose
+2025-07-10,control_601,1.000,161.560,0.000,390.952,147.511,1.095,1.979,amber,water deficit building: irrigate soon or raise the dose
+2025-07-11,control_601,1.000,149.700,0.000,406.839,147.912,1.095,2.092,amber,water deficit building: irrigate soon or raise the dose
+2025-07-12,control_601,1.000,142.290,0.000,418.509,148.982,1.012,2.175,amber,water deficit building: irrigate soon or raise the dose
+2025-07-13,control_601,1.000,146.910,0.000,425.919,144.007,1.012,2.228,amber,water deficit building: irrigate soon or raise the dose
+2025-07-14,control_601,1.000,134.020,0.000,387.396,145.381,0.955,1.953,amber,water deficit building: irrigate soon or raise the dose
+2025-07-15,control_601,1.000,134.520,0.000,355.265,141.649,0.950,1.725,amber,water deficit building: irrigate soon or raise the dose
+2025-07-16,control_601,1.000,172.670,0.000,385.035,144.530,0.950,1.937,amber,water deficit building: irrigate soon or raise the dose
+2025-07-17,control_601,1.000,209.900,0.000,379.993,148.185,1.195,1.901,amber,water deficit building: irrigate soon or raise the dose
+2025-07-18,control_601,1.000,146.810,0.000,429.206,150.839,1.195,2.251,amber,water deficit building: irrigate soon or raise the dose
+2025-07-19,control_601,1.000,90.250,0.000,438.008,144.453,0.973,2.314,amber,water deficit building: irrigate soon or raise the dose
+2025-07-20,control_601,1.000,162.970,0.000,386.867,144.640,0.973,1.950,amber,water deficit building: irrigate soon or raise the dose
+2025-07-21,control_601,1.000,180.690,0.000,291.817,144.707,1.127,1.273,green,no extra irrigation needed
+2025-07-22,control_601,1.000,177.810,0.000,303.620,144.547,1.230,1.357,green,no extra irrigation needed
+2025-07-23,control_601,1.000,149.280,0.000,344.512,143.998,1.230,1.648,amber,water deficit building: irrigate soon or raise the dose
+2025-07-24,control_601,1.000,128.730,0.000,339.973,140.631,1.037,1.616,amber,water deficit building: irrigate soon or raise the dose
+2025-07-25,control_601,1.000,183.950,0.000,308.052,140.348,1.037,1.388,green,no extra irrigation needed
+2025-07-26,control_601,1.000,113.410,0.000,275.989,137.614,0.915,1.160,green,no extra irrigation needed
+2025-07-27,control_601,1.000,194.150,0.000,220.269,141.434,1.311,0.763,amber,water deficit building: irrigate soon or raise the dose
+2025-07-28,control_601,1.000,137.400,0.000,196.773,138.397,0.993,0.596,green,no extra irrigation needed
+2025-07-29,control_601,1.000,176.870,0.000,233.003,143.141,1.236,0.854,green,no extra irrigation needed
+2025-07-30,control_601,1.000,129.030,0.000,266.073,142.848,0.993,1.090,green,no extra irrigation needed
+2025-07-31,control_601,1.000,173.790,0.000,274.278,145.525,1.194,1.148,green,no extra irrigation needed
+2025-08-01,control_601,1.000,188.950,0.000,298.193,146.028,1.194,1.318,green,no extra irrigation needed
+2025-08-02,control_601,1.000,140.970,0.000,268.756,140.030,1.194,1.109,green,no extra irrigation needed
+2025-08-03,control_601,1.000,180.230,0.000,274.347,142.670,1.263,1.148,green,no extra irrigation needed
+2025-08-04,control_601,1.000,189.160,0.000,303.234,144.578,1.263,1.354,green,no extra irrigation needed
+2025-08-05,control_601,1.000,164.620,0.000,339.412,148.383,1.263,1.612,amber,water deficit building: irrigate soon or raise the dose
+2025-08-06,control_601,1.000,189.370,0.000,349.121,143.747,1.308,1.681,amber,water deficit building: irrigate soon or raise the dose
+2025-08-07,control_601,1.000,179.020,0.000,375.944,150.271,1.191,1.872,amber,water deficit building: irrigate soon or raise the dose
+2025-08-08,control_601,1.000,145.240,0.000,408.492,153.163,1.191,2.104,amber,water deficit building: irrigate soon or raise the dose
+2025-08-09,control_601,1.000,146.930,0.000,423.237,156.607,0.948,2.209,amber,water deficit building: irrigate soon or raise the dose
+2025-08-10,control_601,1.000,127.910,0.000,442.440,152.133,0.938,2.345,amber,water deficit building: irrigate soon or raise the dose
+2025-08-11,control_601,1.000,139.330,0.000,444.017,150.441,0.926,2.357,amber,water deficit building: irrigate soon or raise the dose
+2025-08-12,control_601,1.000,137.800,0.000,447.739,153.877,0.896,2.383,amber,water deficit building: irrigate soon or raise the dose
+2025-08-13,control_601,1.000,110.040,0.000,487.934,155.818,0.896,2.669,amber,water deficit building: irrigate soon or raise the dose
+2025-08-14,control_601,1.000,110.730,0.000,497.382,148.668,0.745,2.737,amber,water deficit building: irrigate soon or raise the dose
+2025-08-15,control_601,1.000,124.930,0.000,491.377,150.885,0.745,2.694,amber,water deficit building: irrigate soon or raise the dose
+2025-08-16,control_601,1.000,125.240,0.000,514.475,149.604,0.828,2.858,amber,water deficit building: irrigate soon or raise the dose
+2025-08-17,control_601,1.000,140.790,0.000,490.864,147.180,0.837,2.690,amber,water deficit building: irrigate soon or raise the dose
+2025-08-18,control_601,1.000,131.290,0.000,509.415,147.813,0.888,2.822,amber,water deficit building: irrigate soon or raise the dose
+2025-08-19,control_601,1.000,122.200,0.000,524.806,145.708,0.888,2.932,amber,water deficit building: irrigate soon or raise the dose
+2025-08-20,control_601,1.000,34.810,0.000,432.777,137.304,0.839,2.277,amber,water deficit building: irrigate soon or raise the dose
+2025-08-21,control_601,1.000,120.750,0.000,290.948,138.557,0.839,1.267,green,no extra irrigation needed
+2025-08-22,control_601,1.000,174.080,0.000,298.594,143.293,0.871,1.321,green,no extra irrigation needed
+2025-08-23,control_601,1.000,172.900,0.000,308.675,143.631,1.204,1.393,green,no extra irrigation needed
+2025-08-24,control_601,1.000,152.800,0.000,343.803,142.817,1.204,1.643,amber,water deficit building: irrigate soon or raise the dose
+2025-08-25,control_601,1.000,169.940,0.000,373.645,147.175,1.155,1.856,amber,water deficit building: irrigate soon or raise the dose
+2025-08-26,control_601,1.000,166.470,0.000,405.257,148.649,1.120,2.081,amber,water deficit building: irrigate soon or raise the dose
+2025-08-27,control_601,1.000,100.950,0.000,382.258,140.953,1.120,1.917,amber,water deficit building: irrigate soon or raise the dose
+2025-08-28,control_601,1.000,50.370,0.000,345.652,137.394,0.716,1.656,amber,water deficit building: irrigate soon or raise the dose
+2025-08-29,control_601,1.000,173.630,0.000,249.137,139.679,0.716,0.969,green,no extra irrigation needed
+2025-08-30,control_601,1.000,149.110,0.000,289.001,140.859,1.059,1.253,green,no extra irrigation needed
+2025-08-31,control_601,1.000,159.540,0.000,294.507,144.345,1.105,1.292,green,no extra irrigation needed
+2025-06-01,irrigation_392,1.000,120.290,,0.000,117.072,1.027,-0.327,green,no extra irrigation needed
+2025-06-02,irrigation_392,1.000,52.670,60.360,0.000,98.769,0.780,-0.327,green,no extra irrigation needed
+2025-06-03,irrigation_392,1.000,98.640,30.000,0.000,105.195,0.938,-0.327,green,no extra irrigation needed
+2025-06-04,irrigation_392,1.000,96.580,0.000,8.501,98.778,0.938,-0.254,green,no extra irrigation needed
+2025-06-05,irrigation_392,1.000,99.590,19.000,0.000,100.266,0.978,-0.327,green,no extra irrigation needed
+2025-06-06,irrigation_392,1.000,89.330,0.000,37.527,103.985,0.978,-0.004,green,no extra irrigation needed
+2025-06-07,irrigation_392,1.000,0.700,71.000,0.000,90.766,0.859,-0.327,green,no extra irrigation needed
+2025-06-08,irrigation_392,1.000,170.110,17.000,0.000,105.324,0.859,-0.327,green,no extra irrigation needed
+2025-06-09,irrigation_392,1.000,112.730,0.000,69.247,104.456,1.079,0.269,green,no extra irrigation needed
+2025-06-10,irrigation_392,1.000,116.990,0.000,77.933,111.410,1.079,0.344,green,no extra irrigation needed
+2025-06-11,irrigation_392,1.000,114.650,0.000,82.193,113.090,1.050,0.381,green,no extra irrigation needed
+2025-06-12,irrigation_392,1.000,117.500,0.000,81.612,123.946,1.014,0.376,green,no extra irrigation needed
+2025-06-13,irrigation_392,1.000,116.750,0.000,84.264,126.178,0.948,0.398,green,no extra irrigation needed
+2025-06-14,irrigation_392,1.000,129.710,0.000,60.538,122.063,0.948,0.194,green,no extra irrigation needed
+2025-06-15,irrigation_392,1.000,89.340,0.000,73.326,111.776,0.925,0.304,green,no extra irrigation needed
+2025-06-16,irrigation_392,1.000,123.900,0.000,37.990,108.511,1.063,0.000,green,no extra irrigation needed
+2025-06-17,irrigation_392,1.000,116.150,0.000,46.944,111.095,1.046,0.077,green,no extra irrigation needed
+2025-06-18,irrigation_392,1.000,120.960,0.000,39.712,111.898,1.081,0.015,green,no extra irrigation needed
+2025-06-19,irrigation_392,1.000,122.220,0.000,39.014,114.277,1.070,0.009,green,no extra irrigation needed
+2025-06-20,irrigation_392,1.000,118.430,0.000,30.359,114.933,1.070,-0.066,green,no extra irrigation needed
+2025-06-21,irrigation_392,1.000,105.470,0.000,32.366,110.302,1.030,-0.048,green,no extra irrigation needed
+2025-06-22,irrigation_392,1.000,131.450,0.000,21.394,120.889,1.030,-0.143,green,no extra irrigation needed
+2025-06-23,irrigation_392,1.000,88.920,0.000,48.258,106.582,0.956,0.088,green,no extra irrigation needed
+2025-06-24,irrigation_392,1.000,126.200,0.000,24.843,117.250,1.076,-0.113,green,no extra irrigation needed
+2025-06-25,irrigation_392,1.000,128.300,0.000,46.293,124.714,1.029,0.071,green,no extra irrigation needed
+2025-06-26,irrigation_392,1.000,63.730,0.000,44.514,98.615,1.029,0.056,green,no extra irrigation needed
+2025-06-27,irrigation_392,1.000,140.040,0.000,18.575,111.691,1.029,-0.167,green,no extra irrigation needed
+2025-06-28,irrigation_392,1.000,127.580,0.000,47.612,115.564,1.104,0.083,green,no extra irrigation needed
+2025-06-29,irrigation_392,1.000,124.440,0.000,67.239,118.782,1.104,0.252,green,no extra irrigation needed
+2025-06-30,irrigation_392,1.000,107.140,0.000,61.342,105.260,1.048,0.201,green,no extra irrigation needed
+2025-07-01,irrigation_392,1.000,150.400,0.000,48.025,114.988,1.048,0.086,green,no extra irrigation needed
+2025-07-02,irrigation_392,1.000,144.890,0.000,62.214,110.675,1.308,0.209,amber,water deficit building: irrigate soon or raise the dose
+2025-07-03,irrigation_392,1.000,130.970,0.000,85.028,108.528,1.308,0.405,amber,water deficit building: irrigate soon or raise the dose
+2025-07-04,irrigation_392,1.000,156.830,0.000,62.679,113.080,1.309,0.213,amber,water deficit building: irrigate soon or raise the dose
+2025-07-05,irrigation_392,1.000,146.710,0.000,79.356,114.592,1.280,0.356,green,no extra irrigation needed
+2025-07-06,irrigation_392,1.000,92.970,0.000,108.847,104.838,1.280,0.610,green,no extra irrigation needed
+2025-07-07,irrigation_392,1.000,133.170,0.000,68.955,105.976,1.257,0.267,green,no extra irrigation needed
+2025-07-08,irrigation_392,1.000,77.810,0.000,42.051,98.113,0.887,0.035,green,no extra irrigation needed
+2025-07-09,irrigation_392,1.000,110.170,0.000,54.355,106.813,1.031,0.141,green,no extra irrigation needed
+2025-07-10,irrigation_392,1.000,111.110,0.000,67.137,111.386,0.998,0.251,green,no extra irrigation needed
+2025-07-11,irrigation_392,1.000,115.460,0.000,71.660,112.157,1.029,0.290,green,no extra irrigation needed
+2025-07-12,irrigation_392,1.000,110.580,0.000,74.932,114.216,0.998,0.318,green,no extra irrigation needed
+2025-07-13,irrigation_392,1.000,107.260,0.000,75.589,104.644,1.025,0.324,green,no extra irrigation needed
+2025-07-14,irrigation_392,1.000,105.310,0.000,32.102,107.287,0.982,-0.051,green,no extra irrigation needed
+2025-07-15,irrigation_392,1.000,77.530,0.000,25.397,100.108,0.982,-0.108,green,no extra irrigation needed
+2025-07-16,irrigation_392,1.000,92.700,0.000,30.755,105.650,0.877,-0.062,green,no extra irrigation needed
+2025-07-17,irrigation_392,1.000,125.630,0.000,12.991,112.682,0.877,-0.215,green,no extra irrigation needed
+2025-07-18,irrigation_392,1.000,102.330,0.000,33.412,117.788,0.877,-0.039,green,no extra irrigation needed
+2025-07-19,irrigation_392,1.000,33.320,0.000,43.014,105.502,0.869,0.043,green,no extra irrigation needed
+2025-07-20,irrigation_392,1.000,102.490,8.000,0.000,105.862,0.869,-0.327,green,no extra irrigation needed
+2025-07-21,irrigation_392,1.000,129.900,37.947,0.000,105.990,0.968,-0.327,green,no extra irrigation needed
+2025-07-22,irrigation_392,1.000,101.170,0.000,34.034,105.684,0.968,-0.034,green,no extra irrigation needed
+2025-07-23,irrigation_392,1.000,81.670,0.000,46.540,104.626,0.957,0.074,green,no extra irrigation needed
+2025-07-24,irrigation_392,1.000,64.710,0.000,30.893,98.150,0.781,-0.061,green,no extra irrigation needed
+2025-07-25,irrigation_392,1.000,94.020,14.000,0.000,97.604,0.781,-0.327,green,no extra irrigation needed
+2025-07-26,irrigation_392,1.000,48.760,36.000,0.000,92.344,0.659,-0.327,green,no extra irrigation needed
+2025-07-27,irrigation_392,1.000,109.830,28.000,0.000,99.694,0.963,-0.327,green,no extra irrigation needed
+2025-07-28,irrigation_392,1.000,85.150,4.000,2.019,93.851,0.907,-0.310,green,no extra irrigation needed
+2025-07-29,irrigation_392,1.000,98.780,0.000,36.005,102.979,0.959,-0.017,green,no extra irrigation needed
+2025-07-30,irrigation_392,1.000,67.610,0.000,55.983,102.415,0.907,0.155,green,no extra irrigation needed
+2025-07-31,irrigation_392,1.000,91.290,0.000,59.860,107.564,0.849,0.188,green,no extra irrigation needed
+2025-08-01,irrigation_392,1.000,95.670,0.000,64.349,108.532,0.849,0.227,green,no extra irrigation needed
+2025-08-02,irrigation_392,1.000,62.400,0.000,42.823,96.994,0.849,0.042,green,no extra irrigation needed
+2025-08-03,irrigation_392,1.000,97.770,0.000,27.864,102.072,0.881,-0.087,green,no extra irrigation needed
+2025-08-04,irrigation_392,1.000,90.590,0.000,40.933,105.743,0.857,0.025,green,no extra irrigation needed
+2025-08-05,irrigation_392,1.000,79.980,0.000,50.479,113.063,0.857,0.108,green,no extra irrigation needed
+2025-08-06,irrigation_392,1.000,68.650,0.000,44.673,104.144,0.707,0.058,green,no extra irrigation needed
+2025-08-07,irrigation_392,1.000,98.440,0.000,27.323,116.695,0.707,-0.092,green,no extra irrigation needed
+2025-08-08,irrigation_392,1.000,79.760,0.000,51.648,122.260,0.659,0.118,green,no extra irrigation needed
+2025-08-09,irrigation_392,1.000,91.100,0.000,54.248,128.886,0.707,0.140,green,no extra irrigation needed
+2025-08-10,irrigation_392,1.000,74.570,0.000,62.098,120.279,0.652,0.208,green,no extra irrigation needed
+2025-08-11,irrigation_392,1.000,82.480,0.000,48.010,117.022,0.705,0.086,green,no extra irrigation needed
+2025-08-12,irrigation_392,1.000,104.470,0.000,36.718,123.633,0.705,-0.011,green,no extra irrigation needed
+2025-08-13,irrigation_392,1.000,84.220,0.000,68.773,127.367,0.705,0.265,green,no extra irrigation needed
+2025-08-14,irrigation_392,1.000,77.980,0.000,68.293,113.612,0.686,0.261,green,no extra irrigation needed
+2025-08-15,irrigation_392,1.000,98.230,0.000,60.567,117.877,0.686,0.194,green,no extra irrigation needed
+2025-08-16,irrigation_392,1.000,94.560,0.000,64.258,115.413,0.819,0.226,green,no extra irrigation needed
+2025-08-17,irrigation_392,1.000,104.050,0.000,42.097,110.749,0.833,0.035,green,no extra irrigation needed
+2025-08-18,irrigation_392,1.000,94.190,0.000,56.964,111.967,0.841,0.163,green,no extra irrigation needed
+2025-08-19,irrigation_392,1.000,67.160,0.000,63.983,107.916,0.841,0.224,green,no extra irrigation needed
+2025-08-20,irrigation_392,1.000,28.380,32.000,5.332,91.749,0.622,-0.281,green,no extra irrigation needed
+2025-08-21,irrigation_392,1.000,82.570,31.000,0.000,94.160,0.622,-0.327,green,no extra irrigation needed
+2025-08-22,irrigation_392,1.000,99.490,0.000,54.685,103.271,0.877,0.144,green,no extra irrigation needed
+2025-08-23,irrigation_392,1.000,99.490,0.000,56.802,103.922,0.957,0.162,green,no extra irrigation needed
+2025-08-24,irrigation_392,1.000,86.500,0.000,72.154,102.355,0.957,0.294,green,no extra irrigation needed
+2025-08-25,irrigation_392,1.000,90.740,0.000,84.059,110.739,0.845,0.397,green,no extra irrigation needed
+2025-08-26,irrigation_392,1.000,90.220,0.000,100.333,113.576,0.819,0.537,green,no extra irrigation needed
+2025-08-27,irrigation_392,1.000,52.530,0.000,67.135,98.769,0.794,0.251,green,no extra irrigation needed
+2025-08-28,irrigation_392,1.000,0.450,0.000,56.467,91.921,0.532,0.159,green,no extra irrigation needed
+2025-08-29,irrigation_392,1.000,115.850,11.000,0.000,96.319,0.532,-0.327,green,no extra irrigation needed
+2025-08-30,irrigation_392,1.000,94.970,0.000,64.369,98.588,0.963,0.227,green,no extra irrigation needed
+2025-08-31,irrigation_392,1.000,100.190,0.000,67.531,105.294,0.963,0.254,green,no extra irrigation needed
+2025-06-01,irrigation_757,1.000,99.290,,0.000,79.970,1.242,-0.002,green,no extra irrigation needed
+2025-06-02,irrigation_757,1.000,38.400,44.000,0.000,68.079,0.903,-0.002,green,no extra irrigation needed
+2025-06-03,irrigation_757,1.000,61.490,24.000,0.000,72.254,0.851,-0.002,green,no extra irrigation needed
+2025-06-04,irrigation_757,1.000,83.140,7.000,0.000,68.085,0.851,-0.002,green,no extra irrigation needed
+2025-06-05,irrigation_757,1.000,66.600,14.000,0.000,69.052,0.964,-0.002,green,no extra irrigation needed
+2025-06-06,irrigation_757,1.000,81.910,0.000,16.114,71.468,1.146,0.219,green,no extra irrigation needed
+2025-06-07,irrigation_757,1.000,0.000,60.000,0.000,62.880,0.964,-0.002,green,no extra irrigation needed
+2025-06-08,irrigation_757,1.000,70.470,9.000,0.000,72.338,0.974,-0.002,green,no extra irrigation needed
+2025-06-09,irrigation_757,1.000,67.430,0.000,15.928,71.774,0.939,0.217,green,no extra irrigation needed
+2025-06-10,irrigation_757,1.000,71.050,0.000,5.225,76.292,0.939,0.069,green,no extra irrigation needed
+2025-06-11,irrigation_757,1.000,72.540,1.000,1.277,77.383,0.937,0.015,green,no extra irrigation needed
+2025-06-12,irrigation_757,1.000,70.660,6.000,0.180,84.436,0.931,0.000,green,no extra irrigation needed
+2025-06-13,irrigation_757,1.000,74.140,5.000,0.645,85.886,0.863,0.006,green,no extra irrigation needed
+2025-06-14,irrigation_757,1.000,74.990,21.000,0.000,83.213,0.863,-0.002,green,no extra irrigation needed
+2025-06-15,irrigation_757,1.000,57.390,0.000,8.070,76.530,0.863,0.109,green,no extra irrigation needed
+2025-06-16,irrigation_757,1.000,72.650,25.000,0.000,74.408,0.901,-0.002,green,no extra irrigation needed
+2025-06-17,irrigation_757,1.000,80.490,3.000,0.866,76.087,0.976,0.009,green,no extra irrigation needed
+2025-06-18,irrigation_757,1.000,87.330,7.000,0.057,76.609,1.058,-0.002,green,no extra irrigation needed
+2025-06-19,irrigation_757,1.000,95.940,1.000,1.403,78.154,1.140,0.017,green,no extra irrigation needed
+2025-06-20,irrigation_757,1.000,95.070,1.000,1.083,78.581,1.210,0.012,green,no extra irrigation needed
+2025-06-21,irrigation_757,1.000,95.190,0.000,4.574,75.572,1.228,0.060,green,no extra irrigation needed
+2025-06-22,irrigation_757,1.000,92.810,9.000,0.012,82.450,1.210,-0.002,green,no extra irrigation needed
+2025-06-23,irrigation_757,1.000,79.840,0.000,23.818,73.155,1.126,0.325,green,no extra irrigation needed
+2025-06-24,irrigation_757,1.000,101.080,0.000,6.933,80.086,1.126,0.093,green,no extra irrigation needed
+2025-06-25,irrigation_757,1.000,101.440,0.000,13.410,84.935,1.194,0.182,green,no extra irrigation needed
+2025-06-26,irrigation_757,1.000,64.600,1.000,0.633,67.979,1.194,0.006,green,no extra irrigation needed
+2025-06-27,irrigation_757,1.000,92.160,13.000,0.027,76.474,1.194,-0.002,green,no extra irrigation needed
+2025-06-28,irrigation_757,1.000,84.800,0.000,5.122,78.991,1.074,0.068,green,no extra irrigation needed
+2025-06-29,irrigation_757,1.000,85.360,0.000,3.075,81.082,1.074,0.040,green,no extra irrigation needed
+2025-06-30,irrigation_757,1.000,56.150,8.000,0.000,72.296,1.053,-0.002,green,no extra irrigation needed
+2025-07-01,irrigation_757,1.000,102.540,10.000,0.015,78.616,1.053,-0.002,green,no extra irrigation needed
+2025-07-02,irrigation_757,1.000,107.200,0.000,6.182,75.814,1.304,0.083,amber,water deficit building: irrigate soon or raise the dose
+2025-07-03,irrigation_757,1.000,112.540,0.000,20.106,74.419,1.414,0.274,amber,water deficit building: irrigate soon or raise the dose
+2025-07-04,irrigation_757,1.000,110.810,0.000,9.148,77.377,1.432,0.123,amber,water deficit building: irrigate soon or raise the dose
+2025-07-05,irrigation_757,1.000,93.510,0.000,13.908,78.359,1.432,0.189,amber,water deficit building: irrigate soon or raise the dose
+2025-07-06,irrigation_757,1.000,58.440,6.000,6.707,72.022,1.193,0.090,green,no extra irrigation needed
+2025-07-07,irrigation_757,1.000,82.420,23.000,0.002,72.761,1.133,-0.002,green,no extra irrigation needed
+2025-07-08,irrigation_757,1.000,45.230,29.000,0.000,67.653,0.811,-0.002,green,no extra irrigation needed
+2025-07-09,irrigation_757,1.000,69.040,0.000,4.897,73.305,0.942,0.065,green,no extra irrigation needed
+2025-07-10,irrigation_757,1.000,80.710,4.000,0.367,76.276,0.942,0.003,green,no extra irrigation needed
+2025-07-11,irrigation_757,1.000,87.010,0.000,1.317,76.777,1.058,0.016,green,no extra irrigation needed
+2025-07-12,irrigation_757,1.000,85.530,2.000,1.199,78.115,1.095,0.014,green,no extra irrigation needed
+2025-07-13,irrigation_757,1.000,96.020,13.000,0.451,71.896,1.133,0.004,green,no extra irrigation needed
+2025-07-14,irrigation_757,1.000,48.830,46.000,0.000,73.613,1.095,-0.002,green,no extra irrigation needed
+2025-07-15,irrigation_757,1.000,38.510,0.000,5.737,68.949,0.663,0.076,green,no extra irrigation needed
+2025-07-16,irrigation_757,1.000,70.380,7.000,0.827,72.549,0.663,0.009,green,no extra irrigation needed
+2025-07-17,irrigation_757,1.000,85.330,13.000,0.000,77.118,0.970,-0.002,green,no extra irrigation needed
+2025-07-18,irrigation_757,1.000,74.660,0.000,13.802,80.435,0.970,0.187,green,no extra irrigation needed
+2025-07-19,irrigation_757,1.000,38.840,2.000,13.108,72.454,0.928,0.178,green,no extra irrigation needed
+2025-07-20,irrigation_757,1.000,61.250,22.000,0.000,72.687,0.843,-0.002,green,no extra irrigation needed
+2025-07-21,irrigation_757,1.000,64.360,28.000,0.000,72.771,0.843,-0.002,green,no extra irrigation needed
+2025-07-22,irrigation_757,1.000,73.010,0.000,1.374,72.572,0.884,0.016,green,no extra irrigation needed
+2025-07-23,irrigation_757,1.000,75.810,0.000,4.213,71.885,1.006,0.056,green,no extra irrigation needed
+2025-07-24,irrigation_757,1.000,42.540,17.000,0.000,67.677,1.006,-0.002,green,no extra irrigation needed
+2025-07-25,irrigation_757,1.000,57.170,14.000,0.000,67.322,0.849,-0.002,green,no extra irrigation needed
+2025-07-26,irrigation_757,1.000,8.910,27.000,0.000,63.905,0.629,-0.002,green,no extra irrigation needed
+2025-07-27,irrigation_757,1.000,28.490,16.000,0.008,68.680,0.415,-0.002,green,no extra irrigation needed
+2025-07-28,irrigation_757,1.000,11.720,10.000,0.000,64.884,0.181,-0.002,green,no extra irrigation needed
+2025-07-29,irrigation_757,1.000,19.177,4.133,9.956,70.814,0.271,0.135,green,no extra irrigation needed
+2025-07-30,irrigation_757,1.000,53.840,11.200,0.000,70.448,0.271,-0.002,green,no extra irrigation needed
+2025-07-31,irrigation_757,1.000,70.300,3.450,0.052,73.793,0.764,-0.002,green,no extra irrigation needed
+2025-08-01,irrigation_757,1.000,77.840,0.000,2.419,74.422,0.953,0.031,green,no extra irrigation needed
+2025-08-02,irrigation_757,1.000,31.850,22.130,0.000,66.926,0.953,-0.002,green,no extra irrigation needed
+2025-08-03,irrigation_757,1.000,72.700,0.000,0.832,70.225,1.035,0.009,green,no extra irrigation needed
+2025-08-04,irrigation_757,1.000,81.870,0.000,1.470,72.610,1.035,0.018,green,no extra irrigation needed
+2025-08-05,irrigation_757,1.000,77.420,0.000,1.246,77.366,1.035,0.015,green,no extra irrigation needed
+2025-08-06,irrigation_757,1.000,68.810,6.000,0.000,71.571,1.001,-0.002,green,no extra irrigation needed
+2025-08-07,irrigation_757,1.000,70.860,8.000,0.274,79.725,0.961,0.001,green,no extra irrigation needed
+2025-08-08,irrigation_757,1.000,72.180,3.000,1.396,83.341,0.889,0.017,green,no extra irrigation needed
+2025-08-09,irrigation_757,1.000,78.650,0.000,7.220,87.646,0.889,0.097,green,no extra irrigation needed
+2025-08-10,irrigation_757,1.000,66.680,0.000,9.269,82.054,0.866,0.125,green,no extra irrigation needed
+2025-08-11,irrigation_757,1.000,75.650,6.000,0.746,79.938,0.897,0.008,green,no extra irrigation needed
+2025-08-12,irrigation_757,1.000,91.210,6.000,0.904,84.233,0.946,0.010,green,no extra irrigation needed
+2025-08-13,irrigation_757,1.000,81.200,0.000,18.030,86.659,0.946,0.246,green,no extra irrigation needed
+2025-08-14,irrigation_757,1.000,82.020,0.000,19.410,77.722,1.055,0.265,green,no extra irrigation needed
+2025-08-15,irrigation_757,1.000,97.960,0.000,2.337,80.493,1.055,0.030,green,no extra irrigation needed
+2025-08-16,irrigation_757,1.000,96.010,0.000,6.022,78.892,1.217,0.080,green,no extra irrigation needed
+2025-08-17,irrigation_757,1.000,98.330,12.000,0.000,75.862,1.217,-0.002,green,no extra irrigation needed
+2025-08-18,irrigation_757,1.000,94.030,0.000,5.963,76.654,1.227,0.080,green,no extra irrigation needed
+2025-08-19,irrigation_757,1.000,84.520,5.000,5.407,74.022,1.227,0.072,green,no extra irrigation needed
+2025-08-20,irrigation_757,1.000,4.670,47.000,0.000,63.518,1.142,-0.002,green,no extra irrigation needed
+2025-08-21,irrigation_757,1.000,12.190,14.000,0.000,65.085,0.187,-0.002,green,no extra irrigation needed
+2025-08-22,irrigation_757,1.000,51.940,0.000,10.397,71.004,0.187,0.141,green,no extra irrigation needed
+2025-08-23,irrigation_757,1.000,77.160,0.000,9.672,71.427,0.732,0.131,green,no extra irrigation needed
+2025-08-24,irrigation_757,1.000,71.580,0.000,13.270,70.409,1.017,0.180,green,no extra irrigation needed
+2025-08-25,irrigation_757,1.000,77.210,0.000,14.721,75.856,1.018,0.200,green,no extra irrigation needed
+2025-08-26,irrigation_757,1.000,88.090,0.000,16.513,77.699,1.018,0.225,green,no extra irrigation needed
+2025-08-27,irrigation_757,1.000,20.060,0.000,4.810,68.079,1.018,0.064,green,no extra irrigation needed
+2025-08-28,irrigation_757,1.000,0.000,22.000,1.094,63.630,0.295,0.013,green,no extra irrigation needed
+2025-08-29,irrigation_757,1.000,45.440,10.000,0.000,66.487,0.295,-0.002,green,no extra irrigation needed
+2025-08-30,irrigation_757,1.000,77.110,0.000,19.987,67.961,0.683,0.273,green,no extra irrigation needed
+2025-08-31,irrigation_757,1.000,79.060,0.000,21.128,72.319,1.093,0.288,green,no extra irrigation needed
+2025-06-01,roof_522,1.000,140.790,,6.429,124.362,1.132,-0.922,green,no extra irrigation needed
+2025-06-02,roof_522,1.000,103.590,22.520,0.009,124.362,0.983,-0.974,green,no extra irrigation needed
+2025-06-03,roof_522,1.000,157.620,6.488,0.160,124.362,1.132,-0.973,green,no extra irrigation needed
+2025-06-04,roof_522,1.000,131.560,0.000,27.070,124.362,1.058,-0.755,green,no extra irrigation needed
+2025-06-05,roof_522,1.000,121.270,0.000,29.179,124.362,1.058,-0.738,green,no extra irrigation needed
+2025-06-06,roof_522,1.000,132.340,0.000,57.075,124.362,1.058,-0.513,green,no extra irrigation needed
+2025-06-07,roof_522,1.000,55.070,30.140,0.427,124.362,0.975,-0.971,green,no extra irrigation needed
+2025-06-08,roof_522,1.000,199.420,6.480,7.647,124.362,1.064,-0.912,green,no extra irrigation needed
+2025-06-09,roof_522,1.000,136.870,0.000,82.786,124.362,1.101,-0.305,green,no extra irrigation needed
+2025-06-10,roof_522,1.000,139.570,0.000,105.264,124.362,1.122,-0.123,green,no extra irrigation needed
+2025-06-11,roof_522,1.000,131.970,0.000,120.485,124.362,1.101,0.000,green,no extra irrigation needed
+2025-06-12,roof_522,1.000,119.640,0.000,131.378,124.362,1.061,0.088,green,no extra irrigation needed
+2025-06-13,roof_522,1.000,107.020,0.000,148.022,124.362,0.962,0.223,green,no extra irrigation needed
+2025-06-14,roof_522,1.000,125.330,0.000,136.220,124.362,0.962,0.127,green,no extra irrigation needed
+2025-06-15,roof_522,1.000,98.070,0.000,148.555,124.362,0.861,0.227,green,no extra irrigation needed
+2025-06-16,roof_522,1.000,140.780,0.000,139.782,124.362,1.008,0.156,green,no extra irrigation needed
+2025-06-17,roof_522,1.000,123.690,0.000,160.805,124.362,0.995,0.326,green,no extra irrigation needed
+2025-06-18,roof_522,1.000,118.750,0.000,166.708,124.362,0.995,0.374,green,no extra irrigation needed
+2025-06-19,roof_522,1.000,108.400,0.000,171.111,124.362,0.955,0.409,green,no extra irrigation needed
+2025-06-20,roof_522,1.000,113.790,0.000,172.767,124.362,0.915,0.423,green,no extra irrigation needed
+2025-06-21,roof_522,1.000,111.820,0.000,179.482,124.362,0.899,0.477,green,no extra irrigation needed
+2025-06-22,roof_522,1.000,107.960,0.000,169.561,124.362,0.899,0.397,green,no extra irrigation needed
+2025-06-23,roof_522,1.000,101.150,0.000,189.777,124.362,0.868,0.560,green,no extra irrigation needed
+2025-06-24,roof_522,1.000,115.380,0.000,181.791,124.362,0.868,0.496,green,no extra irrigation needed
+2025-06-25,roof_522,1.000,91.460,0.000,199.055,124.362,0.813,0.635,green,no extra irrigation needed
+2025-06-26,roof_522,1.000,88.070,0.000,184.528,124.362,0.735,0.518,green,no extra irrigation needed
+2025-06-27,roof_522,1.000,140.740,0.000,171.577,124.362,0.735,0.413,green,no extra irrigation needed
+2025-06-28,roof_522,1.000,96.650,0.000,201.612,124.362,0.777,0.656,green,no extra irrigation needed
+2025-06-29,roof_522,1.000,84.600,0.000,205.687,124.362,0.777,0.689,green,no extra irrigation needed
+2025-06-30,roof_522,1.000,103.480,0.000,182.775,124.362,0.777,0.504,green,no extra irrigation needed
+2025-07-01,roof_522,1.000,128.810,0.000,180.374,124.362,0.832,0.484,green,no extra irrigation needed
+2025-07-02,roof_522,1.000,129.490,0.000,189.066,124.362,1.036,0.554,green,no extra irrigation needed
+2025-07-03,roof_522,1.000,107.830,0.000,200.285,124.362,1.036,0.645,green,no extra irrigation needed
+2025-07-04,roof_522,1.000,136.780,0.000,164.616,124.362,1.041,0.357,green,no extra irrigation needed
+2025-07-05,roof_522,1.000,121.610,0.000,202.483,124.362,0.978,0.663,green,no extra irrigation needed
+2025-07-06,roof_522,1.000,98.220,0.000,216.462,124.362,0.978,0.776,green,no extra irrigation needed
+2025-07-07,roof_522,1.000,145.760,0.000,190.291,124.362,0.978,0.564,green,no extra irrigation needed
+2025-07-08,roof_522,1.000,119.060,0.000,133.382,124.362,0.957,0.104,green,no extra irrigation needed
+2025-07-09,roof_522,1.000,147.160,0.000,177.032,124.362,1.172,0.457,green,no extra irrigation needed
+2025-07-10,roof_522,1.000,121.950,0.000,217.367,124.362,0.981,0.783,green,no extra irrigation needed
+2025-07-11,roof_522,1.000,101.570,0.000,229.070,124.362,0.981,0.878,green,no extra irrigation needed
+2025-07-12,roof_522,1.000,85.980,0.000,234.399,124.362,0.817,0.921,green,no extra irrigation needed
+2025-07-13,roof_522,1.000,93.200,0.000,237.240,124.362,0.749,0.944,green,no extra irrigation needed
+2025-07-14,roof_522,1.000,104.280,0.000,197.517,124.362,0.749,0.623,green,no extra irrigation needed
+2025-07-15,roof_522,1.000,105.210,0.000,184.547,124.362,0.839,0.518,green,no extra irrigation needed
+2025-07-16,roof_522,1.000,118.560,0.000,209.625,124.362,0.846,0.721,green,no extra irrigation needed
+2025-07-17,roof_522,1.000,130.160,0.000,200.202,124.362,0.953,0.644,green,no extra irrigation needed
+2025-07-18,roof_522,1.000,82.300,0.000,233.838,124.362,0.953,0.916,green,no extra irrigation needed
+2025-07-19,roof_522,1.000,49.640,0.000,243.503,124.362,0.662,0.995,green,no extra irrigation needed
+2025-07-20,roof_522,1.000,110.340,0.000,196.212,124.362,0.662,0.612,green,no extra irrigation needed
+2025-07-21,roof_522,1.000,157.790,0.000,111.725,124.362,0.887,-0.071,green,no extra irrigation needed
+2025-07-22,roof_522,1.000,144.580,0.000,150.535,124.362,1.163,0.243,green,no extra irrigation needed
+2025-07-23,roof_522,1.000,120.800,0.000,189.828,124.362,1.163,0.561,green,no extra irrigation needed
+2025-07-24,roof_522,1.000,101.030,0.000,178.069,124.362,0.971,0.466,green,no extra irrigation needed
+2025-07-25,roof_522,1.000,134.160,0.000,154.659,124.362,0.971,0.276,green,no extra irrigation needed
+2025-07-26,roof_522,1.000,101.840,0.000,106.837,124.362,0.819,-0.110,green,no extra irrigation needed
+2025-07-27,roof_522,1.000,169.580,0.000,64.233,124.362,1.079,-0.455,green,no extra irrigation needed
+2025-07-28,roof_522,1.000,110.980,0.000,68.998,124.362,0.892,-0.416,green,no extra irrigation needed
+2025-07-29,roof_522,1.000,158.110,0.000,88.376,124.362,1.271,-0.260,green,no extra irrigation needed
+2025-07-30,roof_522,1.000,126.040,0.000,129.149,124.362,1.013,0.070,green,no extra irrigation needed
+2025-07-31,roof_522,1.000,152.060,0.000,138.859,124.362,1.223,0.149,green,no extra irrigation needed
+2025-08-01,roof_522,1.000,144.790,0.000,169.257,124.362,1.164,0.394,green,no extra irrigation needed
+2025-08-02,roof_522,1.000,103.540,0.000,145.789,124.362,1.164,0.205,green,no extra irrigation needed
+2025-08-03,roof_522,1.000,162.150,0.000,136.592,124.362,1.164,0.130,green,no extra irrigation needed
+2025-08-04,roof_522,1.000,146.970,0.000,175.147,124.362,1.182,0.442,green,no extra irrigation needed
+2025-08-05,roof_522,1.000,101.940,0.000,200.146,124.362,1.182,0.644,green,no extra irrigation needed
+2025-08-06,roof_522,1.000,119.120,0.000,196.586,124.362,0.958,0.615,green,no extra irrigation needed
+2025-08-07,roof_522,1.000,99.180,0.000,208.731,124.362,0.820,0.713,green,no extra irrigation needed
+2025-08-08,roof_522,1.000,76.310,0.000,230.118,124.362,0.798,0.886,green,no extra irrigation needed
+2025-08-09,roof_522,1.000,65.970,0.000,242.198,124.362,0.614,0.984,green,no extra irrigation needed
+2025-08-10,roof_522,1.000,63.550,0.000,259.065,124.362,0.530,1.120,green,no extra irrigation needed
+2025-08-11,roof_522,1.000,68.260,0.000,259.108,124.362,0.530,1.121,green,no extra irrigation needed
+2025-08-12,roof_522,1.000,62.200,0.000,258.359,124.362,0.511,1.115,green,no extra irrigation needed
+2025-08-13,roof_522,1.000,47.400,0.000,283.298,124.362,0.500,1.316,green,no extra irrigation needed
+2025-08-14,roof_522,1.000,56.660,0.000,295.922,124.362,0.456,1.418,green,no extra irrigation needed
+2025-08-15,roof_522,1.000,51.140,0.000,283.602,124.362,0.411,1.319,green,no extra irrigation needed
+2025-08-16,roof_522,1.000,55.020,0.000,289.476,124.362,0.442,1.366,green,no extra irrigation needed
+2025-08-17,roof_522,1.000,65.040,0.000,272.452,124.362,0.442,1.229,green,no extra irrigation needed
+2025-08-18,roof_522,1.000,56.820,0.000,284.970,124.362,0.457,1.330,green,no extra irrigation needed
+2025-08-19,roof_522,1.000,62.280,0.000,294.877,124.362,0.501,1.410,green,no extra irrigation needed
+2025-08-20,roof_522,1.000,25.260,0.000,226.614,124.362,0.457,0.858,green,no extra irrigation needed
+2025-08-21,roof_522,1.000,101.540,0.000,84.590,124.362,0.501,-0.290,green,no extra irrigation needed
+2025-08-22,roof_522,1.000,174.670,0.000,107.930,124.362,0.816,-0.102,green,no extra irrigation needed
+2025-08-23,roof_522,1.000,141.830,0.000,150.612,124.362,1.140,0.244,green,no extra irrigation needed
+2025-08-24,roof_522,1.000,123.350,0.000,181.835,124.362,1.140,0.496,green,no extra irrigation needed
+2025-08-25,roof_522,1.000,114.700,0.000,202.134,124.362,0.992,0.660,green,no extra irrigation needed
+2025-08-26,roof_522,1.000,103.650,0.000,222.376,124.362,0.922,0.824,green,no extra irrigation needed
+2025-08-27,roof_522,1.000,85.098,0.000,202.238,124.362,0.833,0.661,green,no extra irrigation needed
+2025-08-28,roof_522,1.000,25.280,0.000,192.648,124.362,0.684,0.583,green,no extra irrigation needed
+2025-08-29,roof_522,1.000,168.850,0.000,93.623,124.362,0.684,-0.217,green,no extra irrigation needed
+2025-08-30,roof_522,1.000,132.680,0.000,149.215,124.362,1.067,0.232,green,no extra irrigation needed
+2025-08-31,roof_522,1.000,151.010,0.000,169.622,124.362,1.214,0.397,green,no extra irrigation needed
+2025-06-01,roof_572,1.000,77.540,,0.502,82.618,0.939,-1.162,green,no extra irrigation needed
+2025-06-02,roof_572,1.000,77.500,61.910,0.000,79.995,0.954,-1.168,green,no extra irrigation needed
+2025-06-03,roof_572,1.000,99.580,2.000,1.344,80.916,0.969,-1.151,green,no extra irrigation needed
+2025-06-04,roof_572,1.000,96.320,0.000,19.121,79.996,1.204,-0.931,green,no extra irrigation needed
+2025-06-05,roof_572,1.000,64.270,0.000,26.700,80.209,1.204,-0.837,green,no extra irrigation needed
+2025-06-06,roof_572,1.000,78.280,0.000,44.598,80.743,0.970,-0.616,green,no extra irrigation needed
+2025-06-07,roof_572,1.000,0.000,53.000,0.491,78.848,0.801,-1.162,green,no extra irrigation needed
+2025-06-08,roof_572,1.000,120.790,8.000,0.389,80.934,0.970,-1.163,green,no extra irrigation needed
+2025-06-09,roof_572,1.000,60.180,0.000,76.715,80.810,0.745,-0.218,green,no extra irrigation needed
+2025-06-10,roof_572,1.000,79.470,0.000,84.441,81.807,0.971,-0.122,green,no extra irrigation needed
+2025-06-11,roof_572,1.000,83.330,0.000,94.315,82.048,0.971,0.000,green,no extra irrigation needed
+2025-06-12,roof_572,1.000,83.580,0.000,105.735,83.604,1.000,0.141,green,no extra irrigation needed
+2025-06-13,roof_572,1.000,80.740,0.000,119.648,83.924,1.000,0.314,green,no extra irrigation needed
+2025-06-14,roof_572,1.000,92.570,0.000,110.077,83.334,1.000,0.195,green,no extra irrigation needed
+2025-06-15,roof_572,1.000,82.620,0.000,120.807,81.859,1.009,0.328,green,no extra irrigation needed
+2025-06-16,roof_572,1.000,97.390,0.000,110.881,81.391,1.111,0.205,green,no extra irrigation needed
+2025-06-17,roof_572,1.000,87.720,0.000,124.372,81.762,1.073,0.372,green,no extra irrigation needed
+2025-06-18,roof_572,1.000,83.950,0.000,133.829,81.877,1.073,0.489,green,no extra irrigation needed
+2025-06-19,roof_572,1.000,75.690,0.000,146.337,82.218,1.025,0.644,green,no extra irrigation needed
+2025-06-20,roof_572,1.000,77.910,0.000,148.377,82.312,0.947,0.670,green,no extra irrigation needed
+2025-06-21,roof_572,1.000,74.430,0.000,163.785,81.648,0.921,0.860,green,no extra irrigation needed
+2025-06-22,roof_572,1.000,80.790,0.000,140.075,83.165,0.947,0.567,green,no extra irrigation needed
+2025-06-23,roof_572,1.000,56.330,0.000,176.630,81.115,0.912,1.020,green,no extra irrigation needed
+2025-06-24,roof_572,1.000,84.370,0.000,170.228,82.644,0.971,0.940,green,no extra irrigation needed
+2025-06-25,roof_572,1.000,71.790,0.000,186.007,83.714,0.858,1.136,green,no extra irrigation needed
+2025-06-26,roof_572,1.000,73.740,0.000,181.897,79.973,0.922,1.085,green,no extra irrigation needed
+2025-06-27,roof_572,1.000,93.150,0.000,178.100,81.847,0.922,1.038,green,no extra irrigation needed
+2025-06-28,roof_572,1.000,73.060,0.000,201.607,82.402,0.922,1.329,green,no extra irrigation needed
+2025-06-29,roof_572,1.000,73.840,0.000,209.578,82.864,0.891,1.428,green,no extra irrigation needed
+2025-06-30,roof_572,1.000,93.740,0.000,193.887,80.925,0.891,1.233,green,no extra irrigation needed
+2025-07-01,roof_572,1.000,96.160,0.000,191.260,82.320,1.158,1.201,green,no extra irrigation needed
+2025-07-02,roof_572,1.000,92.440,0.000,193.999,81.701,1.158,1.235,green,no extra irrigation needed
+2025-07-03,roof_572,1.000,88.960,0.000,202.900,81.394,1.131,1.345,green,no extra irrigation needed
+2025-07-04,roof_572,1.000,146.410,0.000,129.654,82.046,1.131,0.438,green,no extra irrigation needed
+2025-07-05,roof_572,1.000,103.570,0.000,205.776,82.263,1.259,1.380,green,no extra irrigation needed
+2025-07-06,roof_572,1.000,90.350,0.000,239.593,80.865,1.259,1.799,amber,water deficit building: irrigate soon or raise the dose
+2025-07-07,roof_572,1.000,127.060,0.000,213.032,81.028,1.259,1.470,green,no extra irrigation needed
+2025-07-08,roof_572,1.000,89.690,0.000,184.268,79.901,1.123,1.114,green,no extra irrigation needed
+2025-07-09,roof_572,1.000,107.440,0.000,213.848,81.148,1.324,1.480,amber,water deficit building: irrigate soon or raise the dose
+2025-07-10,roof_572,1.000,89.640,0.000,248.223,81.803,1.123,1.906,amber,water deficit building: irrigate soon or raise the dose
+2025-07-11,roof_572,1.000,83.360,0.000,263.517,81.914,1.096,2.096,amber,water deficit building: irrigate soon or raise the dose
+2025-07-12,roof_572,1.000,75.750,0.000,274.884,82.209,1.018,2.236,amber,water deficit building: irrigate soon or raise the dose
+2025-07-13,roof_572,1.000,77.380,0.000,283.343,80.837,0.957,2.341,amber,water deficit building: irrigate soon or raise the dose
+2025-07-14,roof_572,1.000,112.370,0.000,208.117,81.216,0.957,1.409,green,no extra irrigation needed
+2025-07-15,roof_572,1.000,79.460,0.000,214.705,80.187,0.991,1.491,green,no extra irrigation needed
+2025-07-16,roof_572,1.000,113.020,0.000,230.013,80.981,1.384,1.681,amber,water deficit building: irrigate soon or raise the dose
+2025-07-17,roof_572,1.000,116.310,0.000,228.753,81.989,1.396,1.665,amber,water deficit building: irrigate soon or raise the dose
+2025-07-18,roof_572,1.000,74.170,0.000,274.947,82.721,1.396,2.237,amber,water deficit building: irrigate soon or raise the dose
+2025-07-19,roof_572,1.000,39.920,0.000,287.253,80.960,0.897,2.390,amber,water deficit building: irrigate soon or raise the dose
+2025-07-20,roof_572,1.000,100.470,0.000,238.174,81.012,0.897,1.782,amber,water deficit building: irrigate soon or raise the dose
+2025-07-21,roof_572,1.000,122.960,0.000,162.992,81.030,1.240,0.851,green,no extra irrigation needed
+2025-07-22,roof_572,1.000,96.980,0.000,194.377,80.986,1.240,1.239,green,no extra irrigation needed
+2025-07-23,roof_572,1.000,100.130,0.000,216.847,80.835,1.239,1.518,amber,water deficit building: irrigate soon or raise the dose
+2025-07-24,roof_572,1.000,85.290,0.000,214.864,79.906,1.197,1.493,green,no extra irrigation needed
+2025-07-25,roof_572,1.000,108.480,0.000,202.038,79.828,1.239,1.334,green,no extra irrigation needed
+2025-07-26,roof_572,1.000,73.010,0.000,128.620,79.074,1.067,0.425,green,no extra irrigation needed
+2025-07-27,roof_572,1.000,115.680,0.000,105.213,80.127,1.359,0.135,amber,water deficit building: irrigate soon or raise the dose
+2025-07-28,roof_572,1.000,88.850,0.000,75.980,79.290,1.121,-0.227,green,no extra irrigation needed
+2025-07-29,roof_572,1.000,91.680,0.000,118.522,80.598,1.137,0.300,green,no extra irrigation needed
+2025-07-30,roof_572,1.000,70.280,0.000,153.752,80.518,1.121,0.736,green,no extra irrigation needed
+2025-07-31,roof_572,1.000,91.880,0.000,165.787,81.256,1.131,0.885,green,no extra irrigation needed
+2025-08-01,roof_572,1.000,108.000,0.000,184.599,81.394,1.131,1.118,green,no extra irrigation needed
+2025-08-02,roof_572,1.000,101.230,0.000,136.907,79.740,1.269,0.528,green,no extra irrigation needed
+2025-08-03,roof_572,1.000,112.920,0.000,163.801,80.468,1.327,0.861,amber,water deficit building: irrigate soon or raise the dose
+2025-08-04,roof_572,1.000,108.820,0.000,192.357,80.995,1.344,1.214,amber,water deficit building: irrigate soon or raise the dose
+2025-08-05,roof_572,1.000,90.790,0.000,212.180,82.044,1.344,1.460,amber,water deficit building: irrigate soon or raise the dose
+2025-08-06,roof_572,1.000,113.870,0.000,216.875,80.765,1.344,1.518,amber,water deficit building: irrigate soon or raise the dose
+2025-08-07,roof_572,1.000,84.010,0.000,234.153,82.564,1.107,1.732,amber,water deficit building: irrigate soon or raise the dose
+2025-08-08,roof_572,1.000,71.980,0.000,256.172,83.362,1.018,2.005,amber,water deficit building: irrigate soon or raise the dose
+2025-08-09,roof_572,1.000,72.440,0.000,272.144,84.312,0.863,2.202,amber,water deficit building: irrigate soon or raise the dose
+2025-08-10,roof_572,1.000,56.630,0.000,291.266,83.078,0.859,2.439,amber,water deficit building: irrigate soon or raise the dose
+2025-08-11,roof_572,1.000,57.840,0.000,291.943,82.611,0.700,2.448,amber,water deficit building: irrigate soon or raise the dose
+2025-08-12,roof_572,1.000,62.100,0.000,290.499,83.559,0.700,2.430,amber,water deficit building: irrigate soon or raise the dose
+2025-08-13,roof_572,1.000,50.470,0.000,319.936,84.094,0.700,2.794,amber,water deficit building: irrigate soon or raise the dose
+2025-08-14,roof_572,1.000,49.090,0.000,336.535,82.122,0.600,3.000,red,strong water stress: irrigate now
+2025-08-15,roof_572,1.000,53.890,0.000,320.438,82.734,0.600,2.801,amber,water deficit building: irrigate soon or raise the dose
+2025-08-16,roof_572,1.000,52.130,0.000,332.463,82.381,0.633,2.950,amber,water deficit building: irrigate soon or raise the dose
+2025-08-17,roof_572,1.000,57.120,0.000,307.738,81.712,0.651,2.643,amber,water deficit building: irrigate soon or raise the dose
+2025-08-18,roof_572,1.000,48.110,0.000,317.401,81.887,0.633,2.763,amber,water deficit building: irrigate soon or raise the dose
+2025-08-19,roof_572,1.000,52.670,0.000,325.941,81.306,0.648,2.869,amber,water deficit building: irrigate soon or raise the dose
+2025-08-20,roof_572,1.000,33.460,0.000,238.903,78.989,0.588,1.791,amber,water deficit building: irrigate soon or raise the dose
+2025-08-21,roof_572,1.000,73.560,0.000,134.299,79.334,0.648,0.495,green,no extra irrigation needed
+2025-08-22,roof_572,1.000,93.620,0.000,163.288,80.640,0.927,0.854,green,no extra irrigation needed
+2025-08-23,roof_572,1.000,90.000,0.000,187.216,80.734,1.115,1.151,green,no extra irrigation needed
+2025-08-24,roof_572,1.000,77.350,0.000,207.007,80.509,1.115,1.396,green,no extra irrigation needed
+2025-08-25,roof_572,1.000,83.390,0.000,220.327,81.711,1.021,1.561,amber,water deficit building: irrigate soon or raise the dose
+2025-08-26,roof_572,1.000,77.810,0.000,246.816,82.117,0.961,1.889,amber,water deficit building: irrigate soon or raise the dose
+2025-08-27,roof_572,1.000,60.900,0.000,240.714,79.995,0.948,1.813,amber,water deficit building: irrigate soon or raise the dose
+2025-08-28,roof_572,1.000,21.100,0.000,183.811,79.013,0.761,1.108,green,no extra irrigation needed
+2025-08-29,roof_572,1.000,104.230,0.000,99.946,79.644,0.761,0.070,green,no extra irrigation needed
+2025-08-30,roof_572,1.000,63.950,0.000,158.972,79.969,0.800,0.801,green,no extra irrigation needed
+2025-08-31,roof_572,1.000,73.960,0.000,173.103,80.930,0.914,0.976,green,no extra irrigation needed
