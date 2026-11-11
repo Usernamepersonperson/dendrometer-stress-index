@@ -95,7 +95,7 @@ flowchart LR
 
 ## Data sources
 - Dendrometer data: Zweifel, R., Wilhelm, M., Hummel, D., Gisler, J., Rouholahnejad Freund, E., Etzold, S., Trotsiuk, V., Haeni, M., Rigling, A., Schaub, M. (2026). *Pfynwald VPDrought experiment stem radius changes (TreeNet)*. EnviDat. https://doi.org/10.16904/envidat.751. Licence **CC BY 4.0**. Files 2024 and 2025, 10-min, Scots pine (*Pinus sylvestris*), treatments control, irrigation, roof, and their humidified variants. A sample of 6 trees, June-August 2025, is committed in `dendro_stress/data/` (CC BY 4.0, same attribution). Treatment descriptions (rain halved under roofs, irrigation since 2003) are as stated by the data provider.
-- Weather: MeteoSwiss SwissMetNet station Visp (VIS), hourly, open data (`ch.meteoschweiz.ogd-smn`), April-October 2024 and 2025 committed in `dendro_stress/data/weather_visp_hourly.csv.gz`. Source: MeteoSwiss. The station is about 18 km from the trees.
+- Weather: MeteoSwiss SwissMetNet station Visp (VIS), hourly, open data (`ch.meteoschweiz.ogd-smn`, licence CC BY 4.0), April-October 2024 and 2025 committed in `dendro_stress/data/weather_visp_hourly.csv.gz`. Source: MeteoSwiss. The station is about 18 km from the trees.
 - `python -m dendro_stress fetch` rebuilds the cache from these sources.
 
 ## What is not verified yet
@@ -108,4 +108,4 @@ flowchart LR
 - The advice text is a signal, not an irrigation dose. No connection to a controller was tested.
 
 ## Licence
-MIT, Copyright (c) 2026 Victor Bonilla. Data files keep their own licences (CC BY 4.0, MeteoSwiss open data).
+MIT, Copyright (c) 2026 Victor Bonilla. Data files keep their own licences (both CC BY 4.0: EnviDat dendrometer data, and MeteoSwiss weather with "Source: MeteoSwiss").
