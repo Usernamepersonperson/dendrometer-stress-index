@@ -108,4 +108,4 @@ flowchart LR
 - The advice text is a signal, not an irrigation dose. No connection to a controller was tested.
 
 ## Licence
-MIT, Copyright (c) 2026 Victor Bonilla. Data files keep their own licences (both CC BY 4.0: EnviDat dendrometer data, and MeteoSwiss weather with "Source: MeteoSwiss").
+MIT, Copyright (c) 2026 VB-Builds. Data files keep their own licences (both CC BY 4.0: EnviDat dendrometer data, and MeteoSwiss weather with "Source: MeteoSwiss").
